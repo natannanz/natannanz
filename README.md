@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Natannan Zelek
+- 👋 Hi, I’m Natannan Zeleke
 - 👀 I’m interested in Mobile and Web development
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me natannanz16@ethioware.org
